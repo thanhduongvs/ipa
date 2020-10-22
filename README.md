@@ -1,5 +1,9 @@
-# ipa
+# IPA
 
+![IPA](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/00_ipa.jpg)
+
+## 1. Nguyên âm (Vowel sounds)
+### 1.1 Nguyên âm đơn (Monophthongs)
 - /iː/
 - /ɪ/
 - /ʊ/
@@ -13,6 +17,7 @@
 - /ɔː/
 - /ɒ/ = /ɔ/
 
+### 1.2 Nguyên âm đôi (Diphthongs)
 - /ɪə/
 - /ɪe/
 - /ʊə/
@@ -22,6 +27,7 @@
 - /ɑɪ/
 - /ɑʊ/
 
+## 2. Phụ âm (Consonant sounds)
 - /p/
 - /b/
 - /t/
