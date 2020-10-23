@@ -4,18 +4,28 @@
 
 ## 1. Nguyên âm (Vowel sounds)
 ### 1.1 Nguyên âm đơn (Monophthongs)
-- /iː/
-- /ɪ/
-- /ʊ/
-- /uː/
-- /e/ = /ɛ/
-- /æ/
-- /ə/ = /ɜ/
-- /əː/ = /ɜː/
-- /ɑː/
-- /ʌ/
-- /ɔː/
-- /ɒ/ = /ɔ/
+1. /iː/
+- Make your mouth wide, like a smile. Your tongue touches the side of your teeth
+![iː](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/01_nguyen-am-i%CB%90.png)
+2. /ɪ/
+- Make your mouth a bit less wide than for /iː/. Your tongue is a bit further back your mouth than for /iː/
+![iː](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/02_nguyen-am-%C9%AA.png)
+
+3. /uː/
+4. /ʊ/
+5. /ɑː/
+6. /ʌ/
+7. /ɒ/ = /ɔ/
+8. /ɔː/
+9. /e/ = /ɛ/
+10. /æ/
+11. /əː/ = /ɜː/
+12. /ə/ = /ɜ/
+
+
+
+
+
 
 ### 1.2 Nguyên âm đôi (Diphthongs)
 - /ɪə/
