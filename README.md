@@ -1,5 +1,9 @@
 # IPA
-
+https://stepup.edu.vn/blog/tu-hoc-phat-am-tieng-anh/  
+https://media.pronunciationstudio.com/2020/04/Pronunciation-Studio-Starter-Pack.pdf  
+https://www.youtube.com/watch?v=DyYFwoITfXY  
+https://www.youtube.com/watch?v=AbtmtAFdbWo  
+https://www.youtube.com/watch?v=KI3mgasrYgE  
 ![IPA](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/00_ipa.jpg)
 
 ## 1. Nguyên âm (Vowel sounds)
