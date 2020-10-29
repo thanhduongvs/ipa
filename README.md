@@ -23,7 +23,13 @@ https://www.youtube.com/watch?v=KI3mgasrYgE
 4. `/ʊ/`
 - Your tongue is not so far back as for /uː/.  
 ![ʊ](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/04_nguyen-am-ʊ.png)
-
+- `/ʊ/`is open spelled **u**, **oo** or **ou**:
+- **full** `/fʊl/` *(adjective)*
+- **sugar** `/ˈʃʊɡ.ər/` *(noun)*
+- **book** `/bʊk/` *(noun)*
+- **foot** `/fʊt/` *(noun)*
+- **would** `/wʊd/` *(modal verb)*
+- **woman** `/ˈwʊm.ən/` *(noun)*
 5. `/ɑː/`
 - Open your mouth wide.  
 ![ɑː](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/05_nguyen-am-ɑː.png)
