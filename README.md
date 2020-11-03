@@ -58,23 +58,17 @@ https://www.youtube.com/watch?v=KI3mgasrYgE
 - Your mouth and your tongue should be very relaxed.  
 ![ɜː](https://raw.githubusercontent.com/thanhduongvs/ipa/main/images/11_nguyen-am-ɜː.png)
 
-
 12. `/ə/ = /ɜ/`
 
-
-
-
-
-
 ### 1.2 Nguyên âm đôi (Diphthongs)
-- /ɪə/
-- /ɪe/
-- /ʊə/
-- /ɔɪ/
-- /əʊ/
-- /eə/
-- /ɑɪ/
-- /ɑʊ/
+13. /ɪə/
+14. /eə/
+15. /eɪ/
+16. /ɑɪ/
+17. /ɔɪ/
+18. /əʊ/
+19. /ɑʊ/
+20. /ʊə/
 
 ## 2. Phụ âm (Consonant sounds)
 - /p/
